@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Item
+  - Door_In
+  - Door_Out
+  - Zombie_Head
+  - Zombie_Body
+  - Zombie_FourLimbs
+  - ConcreteStaircase
+  - Brick
+  - Concrete
+  - EnvirDirt
+  - EnvirWood
+  - EnvirGlass
+  - Furniture
+  - EnvirPhysicsObj
+  - Enemy
+  - EventHandler_GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - Player
+  - CheckDoorDir
+  - Enemy
+  - AirWall
+  - DoorInteractive
+  - EnvirPhysicsObj
+  - IgnoreNavMesh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
