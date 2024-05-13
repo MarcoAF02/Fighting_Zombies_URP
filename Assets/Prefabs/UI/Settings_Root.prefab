@@ -7449,7 +7449,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4571754891938314017}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -7513,7 +7513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c63817db64e8bb74d96d745b9ea1bb20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  menuState: 0
+  menuState: 1
   settingsSortMaskImage: {fileID: 497407898820501410}
   settingsDetailsMaskImage: {fileID: 4623885484386527574}
   gameSettingsMenu: {fileID: 2274522865098945768}
@@ -9412,9 +9412,9 @@ RectTransform:
   m_Father: {fileID: 5481745150400984328}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -300, y: 0}
-  m_SizeDelta: {x: -600, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 127, y: 0}
+  m_SizeDelta: {x: 254, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6064329497657229361
 GameObject:
