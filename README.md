@@ -1,3 +1,5 @@
+### The performance optimized version has been upgraded to Unity 6, GitHub link: https://github.com/MarcoAF02/Fighting_Zombies_URP_Optimized
+
 ### This is a first person action adventure game based on the Unity game engine, with the gameplay of defeating enemies and achieving goals.
 
 ### Unity version: 2022.3 or higher
